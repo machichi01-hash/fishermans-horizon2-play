@@ -1,5 +1,5 @@
 {
-  "source_commit": "382bc0419d2de5841b352fad12036dd11bfce5f6",
-  "change": "Fleet capacity: Shionari 3, tier2 and later 5",
-  "pck_sha256": "bae2cecb0d1ae0d5995d55c6cad29b0963012dbadfc28c5217c5ec602ae104be"
+  "source_commit": "e8c65c4f22a597e3838f1e317afbb3ad8e8c1abd",
+  "change": "Use escort wording in all four crew-loss departure hints",
+  "pck_sha256": "9fc4fe87927fd6c3a1e51f7da5fd5ec08dd3a4b5af5e257034b534de38995021"
 }
