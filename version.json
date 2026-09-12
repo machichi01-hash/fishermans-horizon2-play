@@ -1,5 +1,5 @@
 {
-  "source_commit": "48d55c0486e43c70d1e51c60b3a428a47513d9f5",
-  "change": "Place ghost ship between snowy and final islands, also encountered from snowy island",
-  "pck_sha256": "5b43a1cc49323112dc23822be1b1a6af18c7394479f7d1a135f6c050cae46c04"
+  "source_commit": "4a8e625d9f96b798ead40f0006462b93eb9d4bae",
+  "change": "Generated top-down pixel art for all ten player ship types, preserving size and equipment visuals",
+  "pck_sha256": "440b688b5f9a6a28f7e1eeb7c4ab8f914efde95134ca51b29d7158bb36d57c37"
 }
