@@ -1,5 +1,5 @@
 {
-  "source_commit": "4a8e625d9f96b798ead40f0006462b93eb9d4bae",
-  "change": "Generated top-down pixel art for all ten player ship types, preserving size and equipment visuals",
-  "pck_sha256": "440b688b5f9a6a28f7e1eeb7c4ab8f914efde95134ca51b29d7158bb36d57c37"
+  "source_commit": "318299b527bd3910e3c9e2ec34be8f1498234532",
+  "change": "Crew genders and 36 job portraits in tavern and fleet menus; job change wording",
+  "pck_sha256": "817022409d4ac9e060bbb97e93b7ed3bc1a32ec193997748e7d64f01ead94c82"
 }
