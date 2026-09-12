@@ -1,5 +1,5 @@
 {
-  "source_commit": "e8c65c4f22a597e3838f1e317afbb3ad8e8c1abd",
-  "change": "Use escort wording in all four crew-loss departure hints",
-  "pck_sha256": "9fc4fe87927fd6c3a1e51f7da5fd5ec08dd3a4b5af5e257034b534de38995021"
+  "source_commit": "931643d6c175e0aecda4c98da3e44df516611452",
+  "change": "Double lord spawn distance at Gekka, Tokoyami, Seisou, Arashigoe and Kaisho",
+  "pck_sha256": "f8aeff30e5e9fc53952ba0149ca3b07ba5a6b388d60d22b4e2b320e68350a765"
 }
