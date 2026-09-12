@@ -1,5 +1,5 @@
 {
-  "source_commit": "931643d6c175e0aecda4c98da3e44df516611452",
-  "change": "Double lord spawn distance at Gekka, Tokoyami, Seisou, Arashigoe and Kaisho",
-  "pck_sha256": "f8aeff30e5e9fc53952ba0149ca3b07ba5a6b388d60d22b4e2b320e68350a765"
+  "source_commit": "48d55c0486e43c70d1e51c60b3a428a47513d9f5",
+  "change": "Place ghost ship between snowy and final islands, also encountered from snowy island",
+  "pck_sha256": "5b43a1cc49323112dc23822be1b1a6af18c7394479f7d1a135f6c050cae46c04"
 }
