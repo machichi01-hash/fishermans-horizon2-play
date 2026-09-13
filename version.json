@@ -1,5 +1,5 @@
 {
-  "source_commit": "318299b527bd3910e3c9e2ec34be8f1498234532",
-  "change": "Crew genders and 36 job portraits in tavern and fleet menus; job change wording",
-  "pck_sha256": "817022409d4ac9e060bbb97e93b7ed3bc1a32ec193997748e7d64f01ead94c82"
+  "source_commit": "cb57b3b369364e84c272f90cc44237ea8addf927",
+  "change": "Reduce crew growth chance by 25 percent at stats 1 through 30",
+  "pck_sha256": "b2ac81a9f4ae46605f4a2442ff6d1581e1a9f671bc0d4064b8fa7102d522ff21"
 }
