@@ -1,5 +1,5 @@
 {
-  "source_commit": "542fb4ad17867c96ff0dc33ce9792be61bbcdfd7",
-  "change": "Right-facing portraits for all ten player ships in shipyard and fleet menus",
-  "pck_sha256": "618f3af768d22b967d3737bd98fbec5ca0b7551f5546ae9c556c77dfa6e1101c"
+  "source_commit": "2b321f5a27188610437ed0cbcfb8f04410d47544",
+  "change": "Publish four adjusted near-island lord HP values",
+  "pck_sha256": "435ada233bc1afdb1c50344b8de0a997be01ec711ff372ca40a2f2c563ddf8cf"
 }
