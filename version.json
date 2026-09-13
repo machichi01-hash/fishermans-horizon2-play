@@ -1,5 +1,5 @@
 {
-  "source_commit": "cad40bd316d41567c2c34ffe5a7f595ffa8ad117",
-  "change": "Publish six combat mob HP adjustments verified at their home islands",
-  "pck_sha256": "fd2d91c57c6689b9ca8ed2b5618900b0724ebc9baa8da443b7a6b7474c832d7b"
+  "source_commit": "542fb4ad17867c96ff0dc33ce9792be61bbcdfd7",
+  "change": "Right-facing portraits for all ten player ships in shipyard and fleet menus",
+  "pck_sha256": "618f3af768d22b967d3737bd98fbec5ca0b7551f5546ae9c556c77dfa6e1101c"
 }
