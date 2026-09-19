@@ -1,5 +1,5 @@
 {
-  "source_commit": "0f5a35575c1b9ef629b1452185a9e8ebb7ba39e6",
-  "change": "Fullscreen settings; later island fame and enemy balance; relic chance 10 percent",
-  "pck_sha256": "5836fecadf78fe3f5ed08871c88b9647a0887b58b88b555a5da97d317dbe71cb"
+  "source_commit": "c18660e4a066b93ebdcebc94662278baed3885a1",
+  "change": "Show ver.1.0 at the bottom right of the opening screen",
+  "pck_sha256": "eef69b3314eddfb8c852c2936b5e37bb14b1358521400c4fee49c047f6eb773f"
 }
