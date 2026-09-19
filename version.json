@@ -1,5 +1,5 @@
 {
-  "source_commit": "2b321f5a27188610437ed0cbcfb8f04410d47544",
-  "change": "Publish four adjusted near-island lord HP values",
-  "pck_sha256": "435ada233bc1afdb1c50344b8de0a997be01ec711ff372ca40a2f2c563ddf8cf"
+  "source_commit": "8e810fbff5b5863f27cbeae0995b926d3429c130",
+  "change": "Lord spawn distances at 1.4x original; aerial torpedo warnings every 15 seconds at most",
+  "pck_sha256": "0d20c14a32b5629917c4dfe8e261c93dd0b98a175b6abf2ff51ccd82c6070e51"
 }
