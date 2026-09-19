@@ -1,5 +1,5 @@
 {
   "source_commit": "8e810fbff5b5863f27cbeae0995b926d3429c130",
-  "change": "Lord spawn distances at 1.4x original; aerial torpedo warnings every 15 seconds at most",
-  "pck_sha256": "0d20c14a32b5629917c4dfe8e261c93dd0b98a175b6abf2ff51ccd82c6070e51"
+  "change": "Repair missing project.binary in Web pack; preserve lord distances and torpedo warning changes",
+  "pck_sha256": "683968bc0af488552c62dd4e2f6ffb8c19ffe509d2a92aaa170d2ee1f3a44393"
 }
