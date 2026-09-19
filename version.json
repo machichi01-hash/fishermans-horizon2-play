@@ -1,5 +1,5 @@
 {
-  "source_commit": "8e810fbff5b5863f27cbeae0995b926d3429c130",
-  "change": "Repair missing project.binary in Web pack; preserve lord distances and torpedo warning changes",
-  "pck_sha256": "683968bc0af488552c62dd4e2f6ffb8c19ffe509d2a92aaa170d2ee1f3a44393"
+  "source_commit": "0f5a35575c1b9ef629b1452185a9e8ebb7ba39e6",
+  "change": "Fullscreen settings; later island fame and enemy balance; relic chance 10 percent",
+  "pck_sha256": "5836fecadf78fe3f5ed08871c88b9647a0887b58b88b555a5da97d317dbe71cb"
 }
