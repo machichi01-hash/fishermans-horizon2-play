@@ -1,5 +1,5 @@
 {
-  "source_commit": "c18660e4a066b93ebdcebc94662278baed3885a1",
-  "change": "Show ver.1.0 at the bottom right of the opening screen",
-  "pck_sha256": "eef69b3314eddfb8c852c2936b5e37bb14b1358521400c4fee49c047f6eb773f"
+  "source_commit": "a086c233f519cd4e4158f22a73acfc0e6e2ea5f0",
+  "change": "Cumulative earned achievement buffs at one fifth strength; Amphiptere HP 2500 and Merman HP 1600",
+  "pck_sha256": "613de27bcfb2d3cefea5150d01bd8fac5315fcf24a61890dcb308d8f62af2122"
 }
