@@ -1,5 +1,5 @@
 {
-  "source_commit": "a086c233f519cd4e4158f22a73acfc0e6e2ea5f0",
-  "change": "Cumulative earned achievement buffs at one fifth strength; Amphiptere HP 2500 and Merman HP 1600",
-  "pck_sha256": "613de27bcfb2d3cefea5150d01bd8fac5315fcf24a61890dcb308d8f62af2122"
+  "source_commit": "357fff78028a618aa7d52f757a6442fb576b0b9c",
+  "change": "Departure hint hold 6 seconds; cumulative achievement buffs and mob HP adjustments",
+  "pck_sha256": "2c1b5242badbb10cc84a59ddecb01fe605dcb801b6e03c9c6ae58c0421690afb"
 }
