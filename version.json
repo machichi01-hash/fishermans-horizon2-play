@@ -1,5 +1,5 @@
 {
-  "source_commit": "3290326f8ac6b18b508fc5cf4466190d0b8d9c8a",
-  "change": "Fix voyage settings clicks and skill cooldown flicker",
-  "pck_sha256": "4e45d16a50802d4697fb8b307ab4b11688f80a136c4911b8d931754a3b8d869f"
+  "source_commit": "02f2985898b80e194d2631bd5eb9f5b058e0c692",
+  "change": "Align top HUD controls and separate weapons from ship status",
+  "pck_sha256": "445d1fc70efc3dd415ed7a01600d73df50803ae730eb24142e021eb4ce183192"
 }
