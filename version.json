@@ -1,5 +1,5 @@
 {
-  "source_commit": "02f2985898b80e194d2631bd5eb9f5b058e0c692",
-  "change": "Align top HUD controls and separate weapons from ship status",
-  "pck_sha256": "445d1fc70efc3dd415ed7a01600d73df50803ae730eb24142e021eb4ce183192"
+  "source_commit": "61eafd4b87c355b20c01354af1a150c8d9f40d9e",
+  "change": "Draw skill cooldown inside a fixed canvas region",
+  "pck_sha256": "dc3191a54760e7d25b1dbb7cde207b3f7e6147a92c931c27818e8cbe56f20db2"
 }
