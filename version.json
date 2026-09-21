@@ -1,5 +1,5 @@
 {
-  "source_commit": "04833e646b4696d0c0d6b04d744cdd975dc7b556",
-  "change": "Simplify earned achievement label; cumulative buffs unchanged",
-  "pck_sha256": "081b1eebfc4962fc321c0b632669939dc605ffe513cf9d28bb237b2af104a61b"
+  "source_commit": "1e4a082f219a5f3b954ccd6f55e38da1755e59e9",
+  "change": "Tier wages; outcome-based crew growth; voyage accounts; enemy tells; responsive HUD and routes",
+  "pck_sha256": "5c4f9b47db13320a77d00abd10cfabec6d40f83a15532dd5abcbaec602e9a8dc"
 }
