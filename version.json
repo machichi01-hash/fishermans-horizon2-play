@@ -1,5 +1,5 @@
 {
-  "source_commit": "1e4a082f219a5f3b954ccd6f55e38da1755e59e9",
-  "change": "Tier wages; outcome-based crew growth; voyage accounts; enemy tells; responsive HUD and routes",
-  "pck_sha256": "5c4f9b47db13320a77d00abd10cfabec6d40f83a15532dd5abcbaec602e9a8dc"
+  "source_commit": "3290326f8ac6b18b508fc5cf4466190d0b8d9c8a",
+  "change": "Fix voyage settings clicks and skill cooldown flicker",
+  "pck_sha256": "4e45d16a50802d4697fb8b307ab4b11688f80a136c4911b8d931754a3b8d869f"
 }
