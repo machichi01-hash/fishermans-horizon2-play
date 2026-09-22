@@ -1,5 +1,5 @@
 {
-  "source_commit": "61eafd4b87c355b20c01354af1a150c8d9f40d9e",
-  "change": "Draw skill cooldown inside a fixed canvas region",
-  "pck_sha256": "dc3191a54760e7d25b1dbb7cde207b3f7e6147a92c931c27818e8cbe56f20db2"
+  "source_commit": "50f8636fa2ea5f43c4725b0ee0c94e93fbe0f496",
+  "change": "Keep enemies moving through melee attack warnings",
+  "pck_sha256": "b235a29737b7c5f057fa623d388ec02f3510c13ba24034fbffbb0a9bacbdb30b"
 }
