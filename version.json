@@ -1,6 +1,6 @@
 {
-  "source_commit": "38b034b6089154868f02143a0942f0df0a7ecd3c",
-  "change": "Place island guide buttons beside their route information",
-  "pck_sha256": "316dd121639ab141df4caad79239f49cf826bc95dbb85b1828d27a3d6cbcf798",
-  "preserved_web_commit": "74f3dcc706d82616112bdd77ca68257980b0a29f"
+  "source_commit": "2994cd0328d028e9a5c82bfbe5ac4bb426b7ac65",
+  "change": "Reduce encircle skill projectile damage to 70%; keep volley and normal attacks unchanged",
+  "pck_sha256": "9c8962f8a2f51b2cc71714e3d38411091927209ffda128060f1b503e8f7fd216",
+  "preserved_web_commit": "d9512bdb59568de76d9e90ce26b23ee1727e5921"
 }
