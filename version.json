@@ -1,5 +1,6 @@
 {
   "source_commit": "38b034b6089154868f02143a0942f0df0a7ecd3c",
   "change": "Place island guide buttons beside their route information",
-  "pck_sha256": "9229d0d1b6dd899f1200895aaae1b382196393ce1094ba008fee053c7ffacd87"
+  "pck_sha256": "316dd121639ab141df4caad79239f49cf826bc95dbb85b1828d27a3d6cbcf798",
+  "preserved_web_commit": "74f3dcc706d82616112bdd77ca68257980b0a29f"
 }
