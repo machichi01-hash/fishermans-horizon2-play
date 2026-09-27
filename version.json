@@ -1,6 +1,6 @@
 {
-  "source_commit": "2994cd0328d028e9a5c82bfbe5ac4bb426b7ac65",
-  "change": "Reduce encircle skill projectile damage to 70%; keep volley and normal attacks unchanged",
-  "pck_sha256": "9c8962f8a2f51b2cc71714e3d38411091927209ffda128060f1b503e8f7fd216",
-  "preserved_web_commit": "d9512bdb59568de76d9e90ce26b23ee1727e5921"
+  "source_commit": "7adf8c5121cb3489dd00852d6a8fb83918773d7c",
+  "change": "Preserve lord achievements after endings and recover save-backed lord achievements",
+  "pck_sha256": "a93f2a4e68704d08bbc7bc9f55a0fddae38abad02215d5dc02e7189197b8c34a",
+  "preserved_web_commit": "3ef5351a4206c3ca8800f79df3ebc9bed7797603"
 }
