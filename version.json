@@ -1,5 +1,5 @@
 {
-  "source_commit": "50f8636fa2ea5f43c4725b0ee0c94e93fbe0f496",
-  "change": "Keep enemies moving through melee attack warnings",
-  "pck_sha256": "b235a29737b7c5f057fa623d388ec02f3510c13ba24034fbffbb0a9bacbdb30b"
+  "source_commit": "d8db14864347dc9753fe57635445cefe4d326fcb",
+  "change": "Prevent enemies from pushing the flagship on contact",
+  "pck_sha256": "11af388dd918910286446b7a98fabe51aade0d2cc2cb0464fbfe6b2ed2eae576"
 }
