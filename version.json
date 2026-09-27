@@ -1,6 +1,6 @@
 {
-  "source_commit": "45e84d16f758f97e3863557f941d4ec10f9ef4cb",
-  "change": "Shorten enemy attack warnings to two thirds",
-  "pck_sha256": "7a917f1398866143cca8624879985643486bb71d8cea377b59d78c64b0df4a4a",
-  "preserved_web_commit": "ec7edcb7e23a679a3e2cf80232271556d0af45c1"
+  "source_commit": "5e9c55f6fd157ba406f34464c6fc4cddbda92f11",
+  "change": "Set five island lord distances to 1.2 times original",
+  "pck_sha256": "8b6ab34daa62ffc7556b9ee83b75f094f615bc69357a6a9c8fff41df1ee8db2a",
+  "preserved_web_commit": "9b121e3b295091091c545fef065420e7fd198cc3"
 }
