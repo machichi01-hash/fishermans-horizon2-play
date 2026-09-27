@@ -1,6 +1,6 @@
 {
-  "source_commit": "5e9c55f6fd157ba406f34464c6fc4cddbda92f11",
-  "change": "Set five island lord distances to 1.2 times original",
-  "pck_sha256": "8b6ab34daa62ffc7556b9ee83b75f094f615bc69357a6a9c8fff41df1ee8db2a",
-  "preserved_web_commit": "9b121e3b295091091c545fef065420e7fd198cc3"
+  "source_commit": "99b0ec9cd1813350b9c465ac1ef326f0b5a5d5d2",
+  "change": "Wooden steam ship artwork and fast gunboat naming",
+  "pck_sha256": "a49be43727f66649d88e93f92009b14b4fda334170f37bfceafb021cb4081304",
+  "preserved_web_commit": "f83d567835b0927b7b6f5a2b6705c7aafe75e425"
 }
