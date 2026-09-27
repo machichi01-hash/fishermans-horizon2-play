@@ -1,6 +1,6 @@
 {
-  "source_commit": "5f3a66db68c91dfe20e9686a4cd5129a67d4bf55",
-  "change": "Adjust eight late-game lord health values",
-  "pck_sha256": "5762ef170e9919b44c21228e168ae78566d2014f21b44c0a81cc2c8069db1684",
-  "preserved_web_commit": "79d508030306796458670eaa8489824e04141151"
+  "source_commit": "45e84d16f758f97e3863557f941d4ec10f9ef4cb",
+  "change": "Shorten enemy attack warnings to two thirds",
+  "pck_sha256": "7a917f1398866143cca8624879985643486bb71d8cea377b59d78c64b0df4a4a",
+  "preserved_web_commit": "ec7edcb7e23a679a3e2cf80232271556d0af45c1"
 }
