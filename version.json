@@ -1,6 +1,6 @@
 {
-  "source_commit": "7adf8c5121cb3489dd00852d6a8fb83918773d7c",
-  "change": "Preserve lord achievements after endings and recover save-backed lord achievements",
-  "pck_sha256": "a93f2a4e68704d08bbc7bc9f55a0fddae38abad02215d5dc02e7189197b8c34a",
-  "preserved_web_commit": "3ef5351a4206c3ca8800f79df3ebc9bed7797603"
+  "source_commit": "5f3a66db68c91dfe20e9686a4cd5129a67d4bf55",
+  "change": "Adjust eight late-game lord health values",
+  "pck_sha256": "5762ef170e9919b44c21228e168ae78566d2014f21b44c0a81cc2c8069db1684",
+  "preserved_web_commit": "79d508030306796458670eaa8489824e04141151"
 }
