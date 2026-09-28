@@ -1,6 +1,6 @@
 {
-  "source_commit": "99b0ec9cd1813350b9c465ac1ef326f0b5a5d5d2",
-  "change": "Wooden steam ship artwork and fast gunboat naming",
-  "pck_sha256": "a49be43727f66649d88e93f92009b14b4fda334170f37bfceafb021cb4081304",
-  "preserved_web_commit": "f83d567835b0927b7b6f5a2b6705c7aafe75e425"
+  "source_commit": "526a0c5643fdba1d874bec2afe15e350c019e0e9",
+  "change": "Reduce heavy gatling and spray damage at distance",
+  "pck_sha256": "56a0e179f2a5a62cd5be9d96f83b93559a142b753826d7b6db90c88a8007e983",
+  "preserved_web_commit": "e9398520f8a80882b6cdec1d876abc924065dbbe"
 }
