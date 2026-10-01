@@ -1,6 +1,6 @@
 {
-  "source_commit": "4d57e16e4e532ad6887601edeb914b3cb776852d",
-  "change": "Restore original flame projectile visuals",
-  "pck_sha256": "0075576420a71ceb39a199007ae46d1b237e0261cf032763b496a60be93d6532",
-  "preserved_web_commit": "abdbc7e559d9156f8c697467e6fab04f4f7763c0"
+  "source_commit": "4d77855116223408da2a0ed4449afde7d39d8283",
+  "change": "Double earned achievement buff effects",
+  "pck_sha256": "02c679347daf9edbc50399121af0c52df807dfc501891efb54cf3ccf83557c8f",
+  "preserved_web_commit": "894e7ada9d745ec6af8bce60ca73e3f08cc14617"
 }
