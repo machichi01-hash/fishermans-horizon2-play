@@ -1,6 +1,6 @@
 {
   "source_commit": "b7d7419084f3ff06772eacaa4ba0e207411a645d",
-  "change": "Double earned achievement buff effects",
-  "pck_sha256": "02c679347daf9edbc50399121af0c52df807dfc501891efb54cf3ccf83557c8f",
-  "preserved_web_commit": "894e7ada9d745ec6af8bce60ca73e3f08cc14617"
+  "change": "Correct relic achievement heading and reduce target to 50",
+  "pck_sha256": "a8c7e0eb195a767b839cdf4c2e95ab1087b040c451019932d9a81e612058728b",
+  "preserved_web_commit": "d4cdb22b177bd02fe844ec7c9bf2c7cdaf44a7cc"
 }
