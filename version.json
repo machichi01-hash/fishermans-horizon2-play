@@ -1,6 +1,6 @@
 {
-  "source_commit": "59fdba0813eb9949538e12afc72a78611bfdc116",
-  "change": "Enhance projectile materials trails and impact visuals",
-  "pck_sha256": "0239e5fd7d5d9d8231e66c9f3ca4b8027e57ab038a87599d509291bed76c5e63",
-  "preserved_web_commit": "e0387839837d95a3bd0b66712d8bbac8b1ffd9ef"
+  "source_commit": "4d57e16e4e532ad6887601edeb914b3cb776852d",
+  "change": "Restore original flame projectile visuals",
+  "pck_sha256": "0075576420a71ceb39a199007ae46d1b237e0261cf032763b496a60be93d6532",
+  "preserved_web_commit": "abdbc7e559d9156f8c697467e6fab04f4f7763c0"
 }
