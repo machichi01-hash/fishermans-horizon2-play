@@ -1,6 +1,6 @@
 {
   "source_commit": "526a0c5643fdba1d874bec2afe15e350c019e0e9",
-  "change": "Reduce heavy gatling and spray damage at distance",
-  "pck_sha256": "56a0e179f2a5a62cd5be9d96f83b93559a142b753826d7b6db90c88a8007e983",
-  "preserved_web_commit": "e9398520f8a80882b6cdec1d876abc924065dbbe"
+  "change": "Enhance projectile materials trails and impact visuals",
+  "pck_sha256": "0239e5fd7d5d9d8231e66c9f3ca4b8027e57ab038a87599d509291bed76c5e63",
+  "preserved_web_commit": "e0387839837d95a3bd0b66712d8bbac8b1ffd9ef"
 }
