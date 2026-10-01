@@ -1,6 +1,6 @@
 {
-  "source_commit": "c4e9a1b8411ae2aa5c3c8684c189401d947bc531",
-  "change": "Correct relic achievement heading and reduce target to 50",
-  "pck_sha256": "a8c7e0eb195a767b839cdf4c2e95ab1087b040c451019932d9a81e612058728b",
-  "preserved_web_commit": "d4cdb22b177bd02fe844ec7c9bf2c7cdaf44a7cc"
+  "source_commit": "50b74b5a50af5050274a6115520ce3993d964845",
+  "change": "Set midgame island fleet capacity to four",
+  "pck_sha256": "6a60524218950e701d8ba74f37271d7a401e6b2b5dc52b5335e2a769697bcf4b",
+  "preserved_web_commit": "93dcfb59ce79eda8881ede814a8b4440c39147d4"
 }
