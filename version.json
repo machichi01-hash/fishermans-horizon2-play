@@ -1,6 +1,6 @@
 {
-  "source_commit": "366e34bbb4091dae409c1b16d21e5b45864f4246",
-  "change": "Adjust ghost ship and Leviathan HP",
-  "pck_sha256": "06bc4093092851f1c4158594108b0f0a064792cf4831f8e1fdb0c6901b555923",
-  "preserved_web_commit": "6bab3f5718d4b66cb3a60a121e3a1be83f001775"
+  "source_commit": "5512fb5be25f7871dda87cee1e9e45a5dee6ba8b",
+  "change": "Adjust Gemini and Reaper HP",
+  "pck_sha256": "55d3773e1b1fc17268d4b55ce5478f18471574c89884e81ac05600a16f2d47e7",
+  "preserved_web_commit": "59ffffdb3bcd741f81f35bd7cb131ac51f5794e7"
 }
