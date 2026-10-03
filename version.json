@@ -1,6 +1,6 @@
 {
-  "source_commit": "eee2719ec83b425efb4e712edec8e41922aae195",
-  "change": "Limit pirate king to one encounter per voyage",
-  "pck_sha256": "f0958e7f688e79f9e476e49da36e599639bbcbbab54e006f9db93560278bedbc",
-  "preserved_web_commit": "d45aa434cf7b967761769b1c01b60be5a091c650"
+  "source_commit": "366e34bbb4091dae409c1b16d21e5b45864f4246",
+  "change": "Adjust ghost ship and Leviathan HP",
+  "pck_sha256": "06bc4093092851f1c4158594108b0f0a064792cf4831f8e1fdb0c6901b555923",
+  "preserved_web_commit": "6bab3f5718d4b66cb3a60a121e3a1be83f001775"
 }
