@@ -1,6 +1,6 @@
 {
-  "source_commit": "9bd075228712a34b8d9c8eddfb93191fd466c5ad",
-  "change": "Improve island menu clarity and harbor styling",
-  "pck_sha256": "48e33ecf0e06d82e71cb4dc6f9a561dbce8251e0434c9376ac3d05e8e1fbff7c",
-  "preserved_web_commit": "b410dc4fca246475ba1d903fe8030086cde47880"
+  "source_commit": "db992bf57445bdd20a9c803876ba420dbccfc2ba",
+  "change": "Expand island menu content by combining header and cost rows",
+  "pck_sha256": "7fd787b25783550c0374eceadbed2bac7ed202c0674e1df2a0b74397030f50e6",
+  "preserved_web_commit": "3a4e385d04f5de8681da3adb265d053fe74a1aa6"
 }
