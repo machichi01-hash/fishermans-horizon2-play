@@ -1,6 +1,6 @@
 {
-  "source_commit": "5512fb5be25f7871dda87cee1e9e45a5dee6ba8b",
-  "change": "Adjust Gemini and Reaper HP",
-  "pck_sha256": "55d3773e1b1fc17268d4b55ce5478f18471574c89884e81ac05600a16f2d47e7",
-  "preserved_web_commit": "59ffffdb3bcd741f81f35bd7cb131ac51f5794e7"
+  "source_commit": "9bd075228712a34b8d9c8eddfb93191fd466c5ad",
+  "change": "Improve island menu clarity and harbor styling",
+  "pck_sha256": "48e33ecf0e06d82e71cb4dc6f9a561dbce8251e0434c9376ac3d05e8e1fbff7c",
+  "preserved_web_commit": "b410dc4fca246475ba1d903fe8030086cde47880"
 }
