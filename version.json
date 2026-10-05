@@ -1,6 +1,6 @@
 {
-  "source_commit": "db992bf57445bdd20a9c803876ba420dbccfc2ba",
-  "change": "Expand island menu content by combining header and cost rows",
-  "pck_sha256": "7fd787b25783550c0374eceadbed2bac7ed202c0674e1df2a0b74397030f50e6",
-  "preserved_web_commit": "3a4e385d04f5de8681da3adb265d053fe74a1aa6"
+  "source_commit": "724a53c48aa3fd6fdadc281d37217d605cd96794",
+  "change": "Keep departure hints clear of voyage HUD panels",
+  "pck_sha256": "e45506a1abfd4bb427ab92a0181206e2e7d9bc8fc7e7e1979e48d58f028969d2",
+  "preserved_web_commit": "4f16d11270d3f6636f57525aa43b5b28e5704a1e"
 }
