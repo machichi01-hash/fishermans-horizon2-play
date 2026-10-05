@@ -1,6 +1,6 @@
 {
-  "source_commit": "724a53c48aa3fd6fdadc281d37217d605cd96794",
-  "change": "Keep departure hints clear of voyage HUD panels",
-  "pck_sha256": "e45506a1abfd4bb427ab92a0181206e2e7d9bc8fc7e7e1979e48d58f028969d2",
-  "preserved_web_commit": "4f16d11270d3f6636f57525aa43b5b28e5704a1e"
+  "source_commit": "a5662362082375543d90517706744c12536fced4",
+  "change": "Rename sea elephant to Umi Jumbo",
+  "pck_sha256": "ad031212899f0139ded269b02ae74e084251d0b9aba4a9e77be340a7021991f6",
+  "preserved_web_commit": "53d625e28c0607d59269457a659cd0d596215973"
 }
